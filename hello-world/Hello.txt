@@ -18,5 +18,5 @@ commit 14
 
 commit 67C
 
-commit new feature from master story/branch1
+commit from branch1 and branch2
 
