@@ -18,4 +18,5 @@ commit 14
 
 commit 67C
 
-commit from branch2
+commit from branch1 and branch2
+
